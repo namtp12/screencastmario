@@ -12,6 +12,16 @@ This repository contains the code for the TypeScript version of the Mario5 demo 
 * The description below hints, where features of TypeScript have been placed.
 * An article describing the original code is available on [CodeProject](http://www.codeproject.com/Articles/396959/Mario).
 
+About the original modules
+--------------------------
+
+* There are 4 high level packages:
+    * Figures package: contains animated entity such as Mario and enemies.
+    * Items package: contains entity which Mario interacts with.
+    * Matter package: landscape, wall.
+    * Engine package: makes the game executable.
+
+
 Practice
 -------------------
 
